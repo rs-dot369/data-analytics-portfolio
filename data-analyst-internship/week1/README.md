@@ -38,6 +38,7 @@ The goal of this week's project was to clean a raw dataset, handle missing value
 <p align="center"> 
 <img src="assets/dashboard.png" alt="Region and Category Sales Analysis" width="90%"> </p>
 <p align="center"> <img src="assets/pivot-tables.png" alt="Region and Category Sales Analysis" width="90%"> </p>
+
 ---
 
 ## 🛠️ Tools & Technologies Used
