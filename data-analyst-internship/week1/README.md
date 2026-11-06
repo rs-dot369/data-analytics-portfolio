@@ -34,9 +34,9 @@ The goal of this week's project was to clean a raw dataset, handle missing value
   * **Furniture** brought in ~$4.11M.
   * **Office Supplies** generated ~$3.79M.
 * **Sales Distribution:** The large gap between the average sale ($246.49) and the median sale ($85.05) indicates a right-skewed dataset, meaning a smaller number of high-value transactions are driving up the overall average.
-![Region and Category Sales Analysis](./assets/dashboard.png)
+![Region and Category Sales Analysis](https://github.com/rs-dot369/data-analytics-portfolio/blob/main/data-analyst-internship/week1/assets/dashboard.png)
 
-![Region and Category Sales Analysis](./assets/pivot-tables.png)
+![Pivot Table Analysis](https://github.com/rs-dot369/data-analytics-portfolio/blob/main/data-analyst-internship/week1/assets/pivot-tables.png)
 
 ---
 
